@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0736/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七俱胝佛母所說準提陀羅尼經會釋
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X23/X23n0446.xml
+    old_id: X23n0446
+hash: sha256:7d40b5503d1e4493a91dcb0720ccf8051708f0a390fd8eb77b8434981799bb21

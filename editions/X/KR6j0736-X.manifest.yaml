@@ -1,0 +1,66 @@
+canonical_identifier: bkk:krp/KR6j0736/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0736/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七俱胝佛母所說準提陀羅尼經會釋
+  identifiers:
+    krp: KR6j0736
+    cbeta: X23n0446
+    cbeta_old_id: X23n0446
+    authorityid: CA0002517
+    json_key: X0446
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X23/X23n0446.xml
+    old_id: X23n0446
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0736_000-X.yaml, hash: 'sha256:7d40b5503d1e4493a91dcb0720ccf8051708f0a390fd8eb77b8434981799bb21'}
+  - {seq: 1, filename: KR6j0736_001-X.yaml, hash: 'sha256:dec3031818776462dde7c36fd12679dee6b1bf03901b2ed0c7a32723b7fb6608'}
+  - {seq: 2, filename: KR6j0736_002-X.yaml, hash: 'sha256:9f4c6f41f5ddb8fe59b97e14280cad47026af3f2adc939e305d0230b15e36196'}
+  - {seq: 3, filename: KR6j0736_003-X.yaml, hash: 'sha256:002756c0d35f9e774427f918871378fc7f28feb4f4ac418d6ae859ac33971cae'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0736_000-X.markers.yaml, hash: 'sha256:e00bd54d7e8c637f2ddb038ad6a97123ba2cfc1dc66419bb6c7272bfe7a05904'}
+  - {seq: 1, role: markers, filename: assets/KR6j0736_001-X.markers.yaml, hash: 'sha256:0075fec491c1a2df28775f10259ada4c472390def990e115e6d67f9fab7d3cac'}
+  - {seq: 2, role: markers, filename: assets/KR6j0736_002-X.markers.yaml, hash: 'sha256:fa1ecc1abaebc7452a324fcfa6b93ea0215f6b2106b54a6c16db53e87136480d'}
+  - {seq: 3, role: markers, filename: assets/KR6j0736_003-X.markers.yaml, hash: 'sha256:1b1e0172fd2c7089a389a6fe5cdcbaf483e4652150f507950c11341b4991b94a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0736_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17567
+  label: '七俱胝佛母所說準提陀羅尼經會
+
+    釋卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0736_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10848
+  label: 七俱胝佛母所說準提陀羅尼經會釋卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0736_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15168
+  label: '七俱胝佛母所說準提陀羅尼經會釋卷下
+
+    　附五悔儀并持誦法要'
+  type: juan
+  level: 1
+hash: sha256:c651fce25b342233606ec67b23980369e274f2ebdff1fb2862ca865d420490ca

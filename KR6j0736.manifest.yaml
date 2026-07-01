@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6j0736/v1
+canonical_location: https://kanripo.org/bkk/KR6j0736/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七俱胝佛母所說準提陀羅尼經會釋
+  identifiers:
+    alt_id:
+    - X23n0446
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X23/X23n0446.xml
+    old_id: X23n0446
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0736_000.yaml, hash: 'sha256:7d40b5503d1e4493a91dcb0720ccf8051708f0a390fd8eb77b8434981799bb21'}
+  - {seq: 1, filename: KR6j0736_001.yaml, hash: 'sha256:804c0cb7a3e475838f088a0a94d3f02e8e024bbe9170b9c14fa8730350364f3e'}
+  - {seq: 2, filename: KR6j0736_002.yaml, hash: 'sha256:bd4fe5009ec46f76da65b3f1e913b9d48252c6613ee52b8a163abcfd97a12558'}
+  - {seq: 3, filename: KR6j0736_003.yaml, hash: 'sha256:acb27037965f8ca27dfe05dd2d5323f49dd716e041c2d685e635a907f73e8b3a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0736_001.markers.yaml, hash: 'sha256:ee8e989b3755ea0e00457e7fbbfc35d422e47088286b755527200a7dd84690c8'}
+  - {seq: 2, role: markers, filename: assets/KR6j0736_002.markers.yaml, hash: 'sha256:2aa193274dd585744990b48ecc13083a9d28e16f1163e91be48d68ed60de445a'}
+  - {seq: 3, role: markers, filename: assets/KR6j0736_003.markers.yaml, hash: 'sha256:3749b0707860074931e65c0332ed3f5a96fac87d8c645e9004114de01ed54c15'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0736_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 17567
+  label: '七俱胝佛母所說準提陀羅尼經會
+
+    釋卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0736_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10848
+  label: 七俱胝佛母所說準提陀羅尼經會釋卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0736_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15168
+  label: '七俱胝佛母所說準提陀羅尼經會釋卷下
+
+    　附五悔儀并持誦法要'
+  type: juan
+  level: 1
+hash: sha256:e022f0d5732483031ba9fa388b5458a965b4fddfd2bed79e688d2913b0cea6b0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
