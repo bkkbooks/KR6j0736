@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0736_000.yaml, hash: 'sha256:7d40b5503d1e4493a91dcb0720ccf8051708f0a390fd8eb77b8434981799bb21'}
-  - {seq: 1, filename: KR6j0736_001.yaml, hash: 'sha256:804c0cb7a3e475838f088a0a94d3f02e8e024bbe9170b9c14fa8730350364f3e'}
-  - {seq: 2, filename: KR6j0736_002.yaml, hash: 'sha256:bd4fe5009ec46f76da65b3f1e913b9d48252c6613ee52b8a163abcfd97a12558'}
-  - {seq: 3, filename: KR6j0736_003.yaml, hash: 'sha256:acb27037965f8ca27dfe05dd2d5323f49dd716e041c2d685e635a907f73e8b3a'}
+  - {seq: 1, filename: KR6j0736_001.yaml, hash: 'sha256:dec3031818776462dde7c36fd12679dee6b1bf03901b2ed0c7a32723b7fb6608'}
+  - {seq: 2, filename: KR6j0736_002.yaml, hash: 'sha256:9f4c6f41f5ddb8fe59b97e14280cad47026af3f2adc939e305d0230b15e36196'}
+  - {seq: 3, filename: KR6j0736_003.yaml, hash: 'sha256:002756c0d35f9e774427f918871378fc7f28feb4f4ac418d6ae859ac33971cae'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0736_001.markers.yaml, hash: 'sha256:ee8e989b3755ea0e00457e7fbbfc35d422e47088286b755527200a7dd84690c8'}
-  - {seq: 2, role: markers, filename: assets/KR6j0736_002.markers.yaml, hash: 'sha256:2aa193274dd585744990b48ecc13083a9d28e16f1163e91be48d68ed60de445a'}
-  - {seq: 3, role: markers, filename: assets/KR6j0736_003.markers.yaml, hash: 'sha256:3749b0707860074931e65c0332ed3f5a96fac87d8c645e9004114de01ed54c15'}
+  - {seq: 0, role: markers, filename: assets/KR6j0736_000.markers.yaml, hash: 'sha256:e6ee3afdef4010fd07025ae63e9eab8f49948b5935125147fd0b783ac3effff7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0736_001.markers.yaml, hash: 'sha256:1eabb6cc78b7d4ef5f834d7987d1a9ebd8bcb97e9170b4e7766c94fea31bac32'}
+  - {seq: 2, role: markers, filename: assets/KR6j0736_002.markers.yaml, hash: 'sha256:318023bd40da6c3158d5441156f9137f6f5a2c097bec2e8db4ac9aa6727e7046'}
+  - {seq: 3, role: markers, filename: assets/KR6j0736_003.markers.yaml, hash: 'sha256:c19bce7486b09b2e6bff6e1921fd05f5cba61a8dbc35eecd059548e596b0a75e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -64,7 +65,4 @@ table_of_contents:
     　附五悔儀并持誦法要'
   type: juan
   level: 1
-hash: sha256:e022f0d5732483031ba9fa388b5458a965b4fddfd2bed79e688d2913b0cea6b0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:91cbb5e06685e6acdf037c94c88b531305222319eab5ef0dd192cb94e5ccca37
