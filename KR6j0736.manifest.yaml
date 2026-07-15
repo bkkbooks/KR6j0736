@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0736/v1
 canonical_location: https://kanripo.org/bkk/KR6j0736/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 七俱胝佛母所說準提陀羅尼經會釋
   identifiers:
@@ -22,14 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0736_000.yaml, hash: 'sha256:7d40b5503d1e4493a91dcb0720ccf8051708f0a390fd8eb77b8434981799bb21'}
-  - {seq: 1, filename: KR6j0736_001.yaml, hash: 'sha256:dec3031818776462dde7c36fd12679dee6b1bf03901b2ed0c7a32723b7fb6608'}
-  - {seq: 2, filename: KR6j0736_002.yaml, hash: 'sha256:9f4c6f41f5ddb8fe59b97e14280cad47026af3f2adc939e305d0230b15e36196'}
-  - {seq: 3, filename: KR6j0736_003.yaml, hash: 'sha256:002756c0d35f9e774427f918871378fc7f28feb4f4ac418d6ae859ac33971cae'}
+  - {seq: 1, filename: KR6j0736_001.yaml, hash: 'sha256:54e47359f913fac37be7fb40e32621b61ce5cf3b6a83a2018d7301fee7ffc054'}
+  - {seq: 2, filename: KR6j0736_002.yaml, hash: 'sha256:b4eea049580e960506c1bb6049d4a0c35292b14ce6b5ac6e0988f46dde0e0729'}
+  - {seq: 3, filename: KR6j0736_003.yaml, hash: 'sha256:ed85d4c4e034e6511718ade6e6761d67080c7b10919a498b93f2e530e9850dff'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0736_000.markers.yaml, hash: 'sha256:e6ee3afdef4010fd07025ae63e9eab8f49948b5935125147fd0b783ac3effff7'}
-  - {seq: 1, role: markers, filename: assets/KR6j0736_001.markers.yaml, hash: 'sha256:1eabb6cc78b7d4ef5f834d7987d1a9ebd8bcb97e9170b4e7766c94fea31bac32'}
-  - {seq: 2, role: markers, filename: assets/KR6j0736_002.markers.yaml, hash: 'sha256:318023bd40da6c3158d5441156f9137f6f5a2c097bec2e8db4ac9aa6727e7046'}
-  - {seq: 3, role: markers, filename: assets/KR6j0736_003.markers.yaml, hash: 'sha256:c19bce7486b09b2e6bff6e1921fd05f5cba61a8dbc35eecd059548e596b0a75e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0736_001.markers.yaml, hash: 'sha256:7174ea12c958f3d412059a5b486ac79f3c7863b0b9074904aaf0defaeb1dc477'}
+  - {seq: 2, role: markers, filename: assets/KR6j0736_002.markers.yaml, hash: 'sha256:bb636e0128a25ccf1010925abf58fd270a4c61a215130f87bb8790092d11944b'}
+  - {seq: 3, role: markers, filename: assets/KR6j0736_003.markers.yaml, hash: 'sha256:a7be3ac3a296d70e28d42846faa8fad3201d68cc98d25659fbdb4eb77d49aa85'}
 table_of_contents:
 - ref:
     seq: 1
@@ -65,4 +65,7 @@ table_of_contents:
     　附五悔儀并持誦法要'
   type: juan
   level: 1
-hash: sha256:91cbb5e06685e6acdf037c94c88b531305222319eab5ef0dd192cb94e5ccca37
+hash: sha256:9419f5b098e54f203edaa5d74a145514ab097e2c34bd6012a2cd4715ab114b73
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
